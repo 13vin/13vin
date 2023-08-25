@@ -1,8 +1,13 @@
 - 👋 Hi, I’m Levin Samsson Moras
-- 👀 I’m interested in Software, AI, Web
-- 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+🔭 Currently working on projects that blend technology and creativity.
+🌱 Learning and exploring new programming languages and frameworks.
+👯 I enjoy collaborating on open source projects and helping the community.
+💬 Let's connect and discuss code, ideas, or anything tech-related!
+
+📫 Reach me at: [21f26.levin@sjec.ac.in]
+📱 Connect with me on [Twitter](https://twitter.com/LevinDevelops) | [LinkedIn](https://linkedin.com/in/levin-samson-moras-80802b286/) | 
+
 
 <!---
 13vin/13vin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
